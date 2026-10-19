@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grilling"
+  short_description: "One-question interview with visible progress"
+policy:
+  allow_implicit_invocation: false

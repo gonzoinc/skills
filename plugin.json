@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gonzo-skills",
+  "version": "0.2.1",
+  "description": "23 development and thinking workflows: 22 explicitly requested skills and automatic project failure learning with post-mortem.",
+  "author": {
+    "name": "gonzoinc"
+  },
+  "repository": "https://github.com/gonzoinc/skills",
+  "license": "MIT"
+}

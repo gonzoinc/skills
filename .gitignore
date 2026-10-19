@@ -1,0 +1,8 @@
+/.codex/
+__pycache__/
+*.pyc
+/.venv/
+
+# Local agent guidance and working reports are not distribution files.
+/AGENTS.md
+/VALIDATION.md
