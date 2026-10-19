@@ -5,7 +5,7 @@
 23 Codex skills for planning, debugging, design, review and learning from mistakes.
 Includes 22 workflows adapted from [Matt Pocock's skills](https://github.com/mattpocock/skills), with
 explicit activation for those workflows, one question at a time and respect for existing project conventions.
-The original `post-mortem` skill runs automatically after unexpected failures.
+The original [post-mortem](https://github.com/gonzoinc/post-mortem) skill runs automatically after unexpected failures.
 
 ## Installation
 
